@@ -1,1 +1,1 @@
-# emotibit
+Project not complete yet. Pushing to Git for version control.

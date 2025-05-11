@@ -1,0 +1,29 @@
+<<<<<<< HEAD
+# Ignore CSV files
+*.csv
+
+# Ignore Python cache files and directories
+__pycache__/
+*.pyc
+
+# Ignore virtual environment folders
+venv/
+env/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints
+*.ipynb
+=======
+# Ignore all CSV files
+*.csv
+
+# Ignore the data folder
+data/
+<<<<<<< HEAD
+>>>>>>> 0902135 (cleaner version;nk2 works!)
+=======
+
+# Ignore notebooks
+*.ipynb_checkpoints
+*.ipynb
+>>>>>>> 893c3e8 (version 1.0)
